@@ -1,8 +1,6 @@
 //
 //  main.cpp
-//  KMPp
-//
-//  Created by on 25/10/2017.
+//  KMP
 //  Copyright (c) 2017  All rights reserved.
 //
 
