@@ -2,7 +2,7 @@
 //  main.cpp
 //  KMPp
 //
-//  Created by jack roon on 25/10/2017.
+//  Created by on 25/10/2017.
 //  Copyright (c) 2017  All rights reserved.
 //
 
