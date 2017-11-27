@@ -17,14 +17,6 @@
 
 using namespace std;
 
-// lock first, add layer
-//lock second, add layer
-//lock n-1, add layer
-// print permutation
-//fall back to n-1 locks, how many left to swap? if none fall back
-//else go forward again with switch
-
-
 vector<char>alphabet = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
 
 
